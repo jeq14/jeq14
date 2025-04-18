@@ -14,6 +14,12 @@ permite generar reportes eficientes y apoyar la toma de decisiones estratégicas
 ![Static Badge](https://img.shields.io/badge/Excel-green?logo=libreofficecalc)
 
 
+## Find me at:
+
+### Spanish
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]((https://www.linkedin.com/in/juan-jesus-enciso-quesquen-a89527263/?trk=opento_sprofile_goalscard))
+
+
 <!--
 **jeq14/jeq14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
