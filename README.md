@@ -21,7 +21,7 @@ permite generar reportes eficientes y apoyar la toma de decisiones estratégicas
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-jesus-enciso-quesquen-a89527263%2F)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-jesus-enciso-quesquen-a89527263/)
 <!--
 **jeq14/jeq14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
