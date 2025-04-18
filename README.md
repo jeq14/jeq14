@@ -9,7 +9,7 @@ permite generar reportes eficientes y apoyar la toma de decisiones estratégicas
 
 ## Skills:
 ![Static Badge](https://img.shields.io/badge/Python-green?logo=python)</br>
-![Static Badge](https://img.shields.io/badge/pandas-blue?logo=pandas)
+![Static Badge](https://img.shields.io/badge/Pandas-blue?logo=pandas)
 
 <!--
 **jeq14/jeq14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
