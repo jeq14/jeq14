@@ -11,7 +11,8 @@ permite generar reportes eficientes y apoyar la toma de decisiones estratégicas
 ![Static Badge](https://img.shields.io/badge/Python-green?logo=python)</br>
 ![Static Badge](https://img.shields.io/badge/Pandas-blue?logo=foodpanda)
 ![Static Badge](https://img.shields.io/badge/SQL-red?logo=SQL%20SERVER)
-![Static Badge](https://img.shields.io/badge/Excel-black?logo=libreofficecalc)
+![Static Badge](https://img.shields.io/badge/Excel-green?logo=libreofficecalc)
+
 
 <!--
 **jeq14/jeq14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
